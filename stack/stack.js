@@ -1,4 +1,4 @@
-// we can create stack using array. Using its push and pop methods but now we will create our own stack class
+// we can create stack using array. Using its push and pop methods but now we will create our own stack class usign linked list.
 
 // Node class is used to create node for stack. Each node will have data and next property.
 
